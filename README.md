@@ -5,12 +5,11 @@
 - 👯 I’m looking to collaborate on a project for HackCamp 2023
 - 🤔 I’m looking for help with my personal project, AMO
 - 💬 Ask me about what video game I play!
-- 📫 How to reach me: dawon020411@gmail.com
--                      dawon0204
+- 📫 How to reach me: dawon020411@gmail.com or dawon0204
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been Vancouver ALONE for 4 years!
--->
-test branch
+- -->
+- test branch
 
 <!--
 **dawon020411/dawon020411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
