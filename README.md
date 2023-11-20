@@ -1,6 +1,10 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498E5F&height=150&section=header" />
+
 ### Hi there 👋 My name is Dayna
 
 - 🔭 I’m currently studying in the University of British Columbia
+
 - 🌱 I’m currently learning how to use Git and GitHub
 - 👯 I’m looking to collaborate on a project for HackCamp 2023
 - 🤔 I’m looking for help with my personal project, AMO
@@ -9,7 +13,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been Vancouver ALONE for 4 years!
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498E5F&height=150&section=footer" />
 <!--
 **dawon020411/dawon020411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
