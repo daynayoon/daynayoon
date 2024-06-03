@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>Email</b> | dawon020411@gmail.com
 <br />
-<img width="16" alt="img" src="https://user-images.githubusercontent.com/64634992/181509965-072df07e-b703-4459-a920-c0d51b52d545.png"> <b>LinkedIn</b> | <a href="www.linkedin.com/in/dayna-yoon" target="_blank" >LinkedIn</a>
+<img width="16" alt="img" src="https://user-images.githubusercontent.com/64634992/181509965-072df07e-b703-4459-a920-c0d51b52d545.png"> <b>LinkedIn</b> | <a href="[www.linkedin.com/in/dayna-yoon](https://www.linkedin.com/in/dayna-yoon/)" target="_blank" >LinkedIn</a>
 
