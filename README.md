@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!-- <img src = "https://seeklogo.com/images/U/university-of-british-columbia-logo-F4496C20CA-seeklogo.com.png" width="13" /> -->
 <span style="font-size: 30px;"><b>The University of British Columbia 27'</b></span>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg2cGU2enBuZnJja3gwNmk5bzVxY29xODV4a3J2Ymwzdjd1cnZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif" width="300" />
+</p>
+
 
 
 ### PROFILE
