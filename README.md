@@ -25,7 +25,7 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,powershell" />
-  <br/>
+  
   <!-- Frontend Languages -->
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
