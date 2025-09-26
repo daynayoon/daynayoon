@@ -20,19 +20,28 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml2OGo3Mzk3cHpmenR6bm5uZW92NTR5M3RjZWZ4ZXplemIwa3A3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E4mDbvI2NqbHO0rUXh/giphy.gif" width="30"> Tech Stacks
 
-### 🚀 Backend Development & Programming Languages
+
+### 🚀 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,powershell,nodejs,express,fastapi" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,powershell" />
+  <br/>
+  <!-- Frontend Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### ⚡ Frontend Development
+### 📚 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>
+<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chai.png" alt="Chai" title="Chai"/>
+<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocha.png" alt="Mocha" title="Mocha"/>
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/>
 </p>
 
-### 🔧 DevOps/Cloud & Tools
+### 🔧 DevOps/Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,npm,yarn" />
 </p>
 
 ### 🗄 Databases
@@ -43,4 +52,6 @@
 ### 🛠 Tools & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,unity" />
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/>
+  <img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </p>
