@@ -9,10 +9,11 @@
 
 <p align="center">
   <b>CS @ University of British Columbia</b><br>
-  <b>Software Developer @ UBC LaunchPad</b>
+  <b>Software Developer @ National Research Council Canada | UBC LaunchPad</b><br>
 </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJzbjB1eXV1N251cG9zZGNmb2wzc2N5YTYyM2Joa2Qzbm83Zzg1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sb5DF9ywY1IMsyAuCS/giphy.gif" width="30"> Feel Free to Reach Out!
+
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="17" /> <b>Email</b> | dawon020411@gmail.com
 <br />
@@ -20,8 +21,9 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml2OGo3Mzk3cHpmenR6bm5uZW92NTR5M3RjZWZ4ZXplemIwa3A3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E4mDbvI2NqbHO0rUXh/giphy.gif" width="30"> Tech Stacks
 
-
-**🚀 Development**
+<details>
+ 
+<summary><b>🚀 Development</b></summary>
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python" width="35" />
@@ -38,7 +40,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="35" />
 </p>
 
-**📚 Frameworks & Libraries**
+</details>
+<details>
+
+<summary><b>📚 Frameworks & Libraries</b></summary>
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi" /> -->
   <img src="https://skillicons.dev/icons?i=react" width="35" />
@@ -53,8 +58,10 @@
 <img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocha.png" alt="Mocha" title="Mocha"/>
   <img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/>
 </p>
+</details>
+<details>
 
-**🔧 DevOps/Cloud**
+<summary><b>🔧 DevOps/Cloud</b></summary>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=git" width="35" />
   <img src="https://skillicons.dev/icons?i=github" width="35" />
@@ -64,15 +71,19 @@
   <img src="https://skillicons.dev/icons?i=npm" width="35" />
   <img src="https://skillicons.dev/icons?i=yarn" width="35" />
 </p>
+</details>
+<details>
 
-**🗄 Databases**
+<summary><b>🗄 Databases</b></summary>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" width="35" />
   <img src="https://skillicons.dev/icons?i=mysql" width="35" />
   <img src="https://skillicons.dev/icons?i=postgres" width="35" />
 </p>
+</details>
+<details>
 
-**🛠 Tools & Design**
+<summary><b>🛠 Tools & Design</b></summary>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" width="35" />
   <img src="https://skillicons.dev/icons?i=figma" width="35" />
@@ -80,3 +91,5 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="35" alt="IntelliJ" title="IntelliJ" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="35" alt="Jupyter Notebook" title="Jupyter Notebook" />
 </p>
+
+</details>
