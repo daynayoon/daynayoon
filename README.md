@@ -1,18 +1,22 @@
 
-<h2 align="center"><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdoemMydXlmeno3dmhudDUzcHZmbTY2YTZpNm5mdGZrcHc5cjNyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxYQrB9jeGzza/giphy.webp" width="45" /> Hello! My name is Dayna. </h2>
 
-<!-- <img src = "https://seeklogo.com/images/U/university-of-british-columbia-logo-F4496C20CA-seeklogo.com.png" width="13" /> -->
+<details open>
+  <summary>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdoemMydXlmeno3dmhudDUzcHZmbTY2YTZpNm5mdGZrcHc5cjNyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxYQrB9jeGzza/giphy.webp" width="40" />
+    
+  </summary>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg2cGU2enBuZnJja3gwNmk5bzVxY29xODV4a3J2Ymwzdjd1cnZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif" width="250" />
-</p>
+<h2 align="center"> Hello! My name is Dayna. </h2>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg2cGU2enBuZnJja3gwNmk5bzVxY29xODV4a3J2Ymwzdjd1cnZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif" width="250" />
+  </p>
 
-<p align="center">
-  <b>CS @ University of British Columbia</b><br>
-  <b>Software Developer @ National Research Council Canada | UBC LaunchPad</b><br>
-</p>
+  <p align="center">
+    <b>CS @ University of British Columbia</b><br>
+    <b>Software Developer @ National Research Council Canada | UBC LaunchPad</b>
+  </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJzbjB1eXV1N251cG9zZGNmb2wzc2N5YTYyM2Joa2Qzbm83Zzg1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sb5DF9ywY1IMsyAuCS/giphy.gif" width="30"> Feel Free to Reach Out!
+  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJzbjB1eXV1N251cG9zZGNmb2wzc2N5YTYyM2Joa2Qzbm83Zzg1NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sb5DF9ywY1IMsyAuCS/giphy.gif" width="30"> Feel Free to Reach Out!
 
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="17" /> <b>Email</b> | dawon020411@gmail.com
@@ -92,4 +96,5 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="35" alt="Jupyter Notebook" title="Jupyter Notebook" />
 </p>
 
+</details>
 </details>
