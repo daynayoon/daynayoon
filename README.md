@@ -1,6 +1,6 @@
 
 
-<details open>
+<details>
   <summary>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdoemMydXlmeno3dmhudDUzcHZmbTY2YTZpNm5mdGZrcHc5cjNyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MxYQrB9jeGzza/giphy.webp" width="40" />
     
