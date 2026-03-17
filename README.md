@@ -10,6 +10,6 @@
 
 <br/>
 
-dawon020411@gmail.com &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/dayna-yoon/) &nbsp;&nbsp;·&nbsp;&nbsp; [portfolio](https://daynay-portfolio.vercel.app/)
+[email](mailto:dawon020411@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/dayna-yoon/) &nbsp;&nbsp;·&nbsp;&nbsp; [portfolio](https://daynay-portfolio.vercel.app/)
 
 </div>
